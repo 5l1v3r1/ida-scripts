@@ -1,2 +1,2 @@
 # ida_script
-Soon
+Tested on IDA PRO 7.0
